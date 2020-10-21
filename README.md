@@ -5,11 +5,22 @@ Solutions of challenges from [Hackerrank](https://www.hackerrank.com) in C#
 * All copyrights if so remain with [Hackerrank](https://www.hackerrank.com)
 * I am just adding how I solved some of the problems mentioned on [Hackerrank](https://www.hackerrank.com)
 
-| # | Problem Name | Details |
-| - | - | - |
-| 1 | Counting Valleys | [Readme](Warm-up-Challenges/Counting-Valleys/README.md) |
-| 2 | Jumping on the Clouds | [Readme](Warm-up-Challenges/Jumping-on-the-Clouds/README.md) |
-| 3 | Repeated String | [Readme](Warm-up-Challenges/Repeated-String/README.md) |
-| 4 | Sales by Match | [Readme](Warm-up-Challenges/Sales-by-Match/README.md) |
-| 5 |   |   |
+| # | Problem | Details | Solution |
+| --- | --- | --- | --- |
+| 1 | Counting Valleys | [Readme](Algorithms/Counting-Valleys/README.md) | [Solution](Algorithms/Counting-Valleys/Program.cs) |
+| 2 | Jumping on the Clouds | [Readme](Algorithms/Jumping-on-the-Clouds/README.md) | [Solution](Algorithms/Jumping-on-the-Clouds/Program.cs) |
+| 3 | Repeated String | [Readme](Algorithms/Repeated-String/README.md) | [Solution](Algorithms/Repeated-String/Program.cs) |
+| 4 | Sales by Match | [Readme](Algorithms/Sales-by-Match/README.md) | [Solution](Algorithms/Sales-by-Match/Program.cs) |
+| 5 | 2D Array DS | [Readme](Arrays/2D-Array-DS/README.md) | [Solution](Arrays/2D-Array-DS/Solution.cs) |
+| 6 | Arrays: Left Rotation | [Readme](Arrays/Arrays-Left-Rotation/README.md) | [Solution](Arrays/Arrays-Left-Rotation/Solution.cs) |
+| 7 | Electronics Shop | [Readme](Algorithms/Electronics-Shop/README.md) | [Solution](Algorithms/Electronics-Shop/Solution.cs) |
+| 8 | Cats and a Mouse | [Readme](Algorithms/Cats-and-a-Mouse/README.md) | [Solution](Algorithms/Cats-and-a-Mouse/Solution.cs) |
+| 9 | The Hurdle Race | [Readme](Algorithms/The-Hurdle-Race/README.md) | [Solution](Algorithms/The-Hurdle-Race/Solution.cs) |
+| 10 | Designer PDF Viewer | [Readme](Algorithms/Designer-PDF-Viewer/README.md) | [Solution](Algorithms/Designer-PDF-Viewer/Solution.cs) |
+| 11 | Equalize the Array | [Readme](Algorithms/Equalize-the-Array/README.md) | [Solution](Algorithms/Equalize-the-Array/Solution.cs) |
+| 12 |  |  |  |
+| 13 |  |  |  |
+| 14 |  |  |  |
+
+
 
