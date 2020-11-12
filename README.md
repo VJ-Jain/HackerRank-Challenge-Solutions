@@ -6,7 +6,7 @@ Solutions of challenges from [Hackerrank](https://www.hackerrank.com) in C#
 * I am just adding how I solved some of the problems mentioned on [Hackerrank](https://www.hackerrank.com)
 
 | # | Problem | Details | Solution |
-| --- | --- | --- | --- |
+| - | - | - | - |
 | 1 | Counting Valleys | [Readme](Algorithms/Counting-Valleys/README.md) | [Solution](Algorithms/Counting-Valleys/Program.cs) |
 | 2 | Jumping on the Clouds | [Readme](Algorithms/Jumping-on-the-Clouds/README.md) | [Solution](Algorithms/Jumping-on-the-Clouds/Program.cs) |
 | 3 | Repeated String | [Readme](Algorithms/Repeated-String/README.md) | [Solution](Algorithms/Repeated-String/Program.cs) |
@@ -18,9 +18,10 @@ Solutions of challenges from [Hackerrank](https://www.hackerrank.com) in C#
 | 9 | The Hurdle Race | [Readme](Algorithms/The-Hurdle-Race/README.md) | [Solution](Algorithms/The-Hurdle-Race/Solution.cs) |
 | 10 | Designer PDF Viewer | [Readme](Algorithms/Designer-PDF-Viewer/README.md) | [Solution](Algorithms/Designer-PDF-Viewer/Solution.cs) |
 | 11 | Equalize the Array | [Readme](Algorithms/Equalize-the-Array/README.md) | [Solution](Algorithms/Equalize-the-Array/Solution.cs) |
-| 12 |  |  |  |
-| 13 |  |  |  |
-| 14 |  |  |  |
-
-
+| 12 | Find Digits | [Readme](Algorithms/Find-Digits/README.md) | [Solution](Algorithms/Find-Digits/Solution.cs) |
+| 13 | Jumping on the Clouds: Revisited | [Readme](Algorithms/Jumping-on-the-Clouds-Revisited/README.md) | [Solution](Algorithms/Jumping-on-the-Clouds-Revisited/Solution.cs) |
+| 14 | Utopian Tree | [Readme](Algorithms/Utopian-Tree/README.md) | [Solution](Algorithms/Utopian-Tree/Solution.cs) |
+| 15 | Angry Professor | [Readme](Algorithms/Angry-Professor/README.md) | [Solution](Algorithms/Angry-Professor/Solution.cs) |
+| 16 |   |   |   |
+| 17 |   |   |   |
 
