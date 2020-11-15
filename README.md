@@ -22,6 +22,12 @@ Solutions of challenges from [Hackerrank](https://www.hackerrank.com) in C#
 | 13 | Jumping on the Clouds: Revisited | [Readme](Algorithms/Jumping-on-the-Clouds-Revisited/README.md) | [Solution](Algorithms/Jumping-on-the-Clouds-Revisited/Solution.cs) |
 | 14 | Utopian Tree | [Readme](Algorithms/Utopian-Tree/README.md) | [Solution](Algorithms/Utopian-Tree/Solution.cs) |
 | 15 | Angry Professor | [Readme](Algorithms/Angry-Professor/README.md) | [Solution](Algorithms/Angry-Professor/Solution.cs) |
-| 16 |   |   |   |
-| 17 |   |   |   |
+| 16 | Sequence Equation | [Readme](Algorithms/Sequence-Equation/README.md) | [Solution](Algorithms/Sequence-Equation/Solution.cs) |
+| 17 | Circular Array Rotation | [Readme](Algorithms/Circular-Array-Rotation/README.md) | [Solution](Algorithms/Circular-Array-Rotation/Solution.cs) |
+| 18 | Save the Prisoner | [Readme](Algorithms/Save-the-Prisoner/README.md) | [Solution](Algorithms/Save-the-Prisoner/Solution.cs) |
+| 19 | Viral Advertising | [Readme](Algorithms/Viral-Advertising/README.md) | [Solution](Algorithms/Viral-Advertising/Solution.cs) |
+| 20 | Beautiful Days at the Movies | [Readme](Algorithms/Beautiful-Days-at-the-Movies/README.md) | [Solution](Algorithms/Beautiful-Days-at-the-Movies/Solution.cs) |
+| 21 | Mini-Max Sum | [Readme](Algorithms/Mini-Max-Sum/README.md) | [Solution](Algorithms/Mini-Max-Sum/Solution.cs) |
+| 22 |   |   |   |
+| 23 |   |   |   |
 
