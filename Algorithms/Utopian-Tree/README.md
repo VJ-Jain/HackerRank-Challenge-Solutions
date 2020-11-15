@@ -4,5 +4,5 @@ The Utopian Tree goes through *2* cycles of growth every year. Each spring, it *
 
 A Utopian Tree sapling with a height of *1* meter is planted at the onset of spring. How tall will the tree be after n growth cycles?
 
-![Problem.jpg](./Problem.jpg)
+<kbd>![Problem.jpg](./Problem.jpg)</kbd>
 
