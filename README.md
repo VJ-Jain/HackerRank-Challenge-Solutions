@@ -29,6 +29,7 @@ Solutions of challenges from [Hackerrank](https://www.hackerrank.com) in C#
 | 20 | Beautiful Days at the Movies | [Readme](Algorithms/Beautiful-Days-at-the-Movies/README.md) | [Solution](Algorithms/Beautiful-Days-at-the-Movies/Solution.cs) |
 | 21 | Mini-Max Sum | [Readme](Algorithms/Mini-Max-Sum/README.md) | [Solution](Algorithms/Mini-Max-Sum/Solution.cs) |
 | 22 | Birthday Cake Candles | [Readme](Algorithms/Birthday-Cake-Candles/README.md) | [Solution](Algorithms/Birthday-Cake-Candles/Solution.cs) |
-| 23 |   |   |   |
+| 23 | Time Conversion | [Readme](Algorithms/Time-Conversion/README.md) | [Solution](Algorithms/Time-Conversion/Solution.cs) |
 | 24 |   |   |   |
+| 25 |   |   |   |
 
