@@ -30,6 +30,11 @@ Solutions of challenges from [Hackerrank](https://www.hackerrank.com) in C#
 | 21 | Mini-Max Sum | [Readme](Algorithms/Mini-Max-Sum/README.md) | [Solution](Algorithms/Mini-Max-Sum/Solution.cs) |
 | 22 | Birthday Cake Candles | [Readme](Algorithms/Birthday-Cake-Candles/README.md) | [Solution](Algorithms/Birthday-Cake-Candles/Solution.cs) |
 | 23 | Time Conversion | [Readme](Algorithms/Time-Conversion/README.md) | [Solution](Algorithms/Time-Conversion/Solution.cs) |
-| 24 |   |   |   |
+| 24 | Grading Students | [Readme](Algorithms/Grading-Students/README.md) | [Solution](Algorithms/Grading-Students/Solution.cs) |
 | 25 |   |   |   |
+| 26 |   |   |   |
+| 27 |   |   |   |
+| 28 |   |   |   |
+| 29 |   |   |   |
+| 30 |   |   |   |
 
