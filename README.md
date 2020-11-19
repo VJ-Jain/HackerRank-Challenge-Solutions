@@ -31,7 +31,7 @@ Solutions of challenges from [Hackerrank](https://www.hackerrank.com) in C#
 | 22 | Birthday Cake Candles | [Readme](Algorithms/Birthday-Cake-Candles/README.md) | [Solution](Algorithms/Birthday-Cake-Candles/Solution.cs) |
 | 23 | Time Conversion | [Readme](Algorithms/Time-Conversion/README.md) | [Solution](Algorithms/Time-Conversion/Solution.cs) |
 | 24 | Grading Students | [Readme](Algorithms/Grading-Students/README.md) | [Solution](Algorithms/Grading-Students/Solution.cs) |
-| 25 |   |   |   |
+| 25 | Apples and Oranges | [Readme](Algorithms/Apples-and-Oranges/README.md) | [Solution](Algorithms/Apples-and-Oranges/Solution.cs) |
 | 26 |   |   |   |
 | 27 |   |   |   |
 | 28 |   |   |   |
