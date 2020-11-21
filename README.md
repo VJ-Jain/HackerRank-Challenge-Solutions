@@ -32,7 +32,7 @@ Solutions of challenges from [Hackerrank](https://www.hackerrank.com) in C#
 | 23 | Time Conversion | [Readme](Algorithms/Time-Conversion/README.md) | [Solution](Algorithms/Time-Conversion/Solution.cs) |
 | 24 | Grading Students | [Readme](Algorithms/Grading-Students/README.md) | [Solution](Algorithms/Grading-Students/Solution.cs) |
 | 25 | Apples and Oranges | [Readme](Algorithms/Apples-and-Oranges/README.md) | [Solution](Algorithms/Apples-and-Oranges/Solution.cs) |
-| 26 |   |   |   |
+| 26 | Number Line Jumps | [Readme](Algorithms/Number-Line-Jumps/README.md) | [Solution1](Algorithms/Number-Line-Jumps/Solution1.cs) [Solution2](Algorithms/Number-Line-Jumps/Solution2.cs)|
 | 27 |   |   |   |
 | 28 |   |   |   |
 | 29 |   |   |   |
