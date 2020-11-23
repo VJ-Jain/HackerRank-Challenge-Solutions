@@ -1,4 +1,4 @@
-# Between Two Numbers
+# Between Two Sets
 
 You will be given two arrays of integers and asked to determine all integers that satisfy the following two conditions:
 
@@ -8,4 +8,3 @@ You will be given two arrays of integers and asked to determine all integers tha
 These numbers are referred to as being *between* the two arrays. You must determine how many such numbers exist.
 
 <kbd>![Problem.jpg](./Problem.jpg)</kbd>
-
