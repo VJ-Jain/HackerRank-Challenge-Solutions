@@ -35,7 +35,8 @@ Solutions of challenges from [Hackerrank](https://www.hackerrank.com) in C#
 | 26 | Number Line Jumps | [Readme](Algorithms/Number-Line-Jumps/README.md) | [Solution1](Algorithms/Number-Line-Jumps/Solution1.cs) [Solution2](Algorithms/Number-Line-Jumps/Solution2.cs) |
 | 27 | Between Two Sets | [Readme](Algorithms/Between-Two-Sets/README.md) | [Solution](Algorithms/Between-Two-Sets/Solution.cs) |
 | 28 | Breaking the Records | [Readme](Algorithms/Breaking-the-Records/README.md) | [Solution](Algorithms/Breaking-the-Records/Solution.cs) |
-| 29 |   |   |   |
+| 29 | Sub-array Division | [Readme](Algorithms/Sub-array-Division/README.md) | [Solution](Algorithms/Sub-array-Division/Solution.cs) |
 | 30 |   |   |   |
 | 31 |   |   |   |
+| 32 |   |   |   |
 
