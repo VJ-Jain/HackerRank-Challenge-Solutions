@@ -37,6 +37,9 @@ Solutions of challenges from [Hackerrank](https://www.hackerrank.com) in C#
 | 28 | Breaking the Records | [Readme](Algorithms/Breaking-the-Records/README.md) | [Solution](Algorithms/Breaking-the-Records/Solution.cs) |
 | 29 | Sub-array Division | [Readme](Algorithms/Sub-array-Division/README.md) | [Solution](Algorithms/Sub-array-Division/Solution.cs) |
 | 30 | Divisible Sum Pairs | [Readme](Algorithms/Divisible-Sum-Pairs/README.md) | [Solution](Algorithms/Divisible-Sum-Pairs/Solution.cs) |
-| 31 |   |   |   |
+| 31 | Migratory Birds | [Readme](Algorithms/Migratory-Birds/README.md) | [Solution](Algorithms/Migratory-Birds/Solution.cs) |
 | 32 |   |   |   |
+| 33 |   |   |   |
+| 34 |   |   |   |
+| 35 |   |   |   |
 
