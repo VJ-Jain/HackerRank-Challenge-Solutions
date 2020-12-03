@@ -40,7 +40,7 @@ Solutions of challenges from [Hackerrank](https://www.hackerrank.com) in C#
 | 31 | Migratory Birds | [Readme](Algorithms/Migratory-Birds/README.md) | [Solution](Algorithms/Migratory-Birds/Solution.cs) |
 | 32 | Day of the Programmer | [Readme](Algorithms/Day-of-the-Programmer/README.md) | [Solution](Algorithms/Day-of-the-Programmer/Solution.cs) |
 | 33 | Bill Division | [Readme](Algorithms/Bill-Division/README.md) | [Solution](Algorithms/Bill-Division/Solution.cs) |
-| 34 |   |   |   |
+| 34 | Drawing Book | [Readme](Algorithms/Drawing-Book/README.md) | [Solution](Algorithms/Drawing-Book/Solution.cs) |
 | 35 |   |   |   |
 | 36 |   |   |   |
 | 37 |   |   |   |
